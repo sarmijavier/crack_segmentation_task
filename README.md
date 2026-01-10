@@ -17,7 +17,6 @@ python3 -m venv .venv
 ```
 
 ## Step 2: Activate a Virtual Environment
-# Windows (Command Prompt):
 ```bash
 .venv\Scripts\activate
 
@@ -29,7 +28,6 @@ source .venv/bin/activate
 ```
 
 ## Step 3: Install Libraries
-# Ensure pip is current
 ```bash
 pip install --upgrade pip
 
