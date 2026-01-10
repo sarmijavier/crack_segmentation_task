@@ -18,6 +18,7 @@ python3 -m venv .venv
 
 ## Step 2: Activate a Virtual Environment
 # Windows (Command Prompt):
+```bash
 .venv\Scripts\activate
 
 # Windows (PowerShell):
@@ -25,10 +26,11 @@ python3 -m venv .venv
 
 # macOS/Linux:
 source .venv/bin/activate
-
+```
 
 ## Step 3: Install Libraries
 # Ensure pip is current
+```bash
 pip install --upgrade pip
 
 # Install requirements
@@ -36,10 +38,12 @@ pip install -r requirements.txt
 
 # Ensure Jupyter Lab is installed in this environment
 pip install jupyterlab
+```
 
 ## Step 4: Run Jupyter Lab
+```bash
 jupyter lab
-
+```
 
 ## Important:
 To run the code, you need to add the dataset in the root folder.
