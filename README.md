@@ -44,7 +44,7 @@ jupyter lab
 ## Important:
 To run the code, you need to add the dataset in the root folder.
 Also, we tried a few things during this assignment, the main file is 
-lab1.ipynb, which is the file that was based to create our documentation and
+assignment.ipynb, which is the file that was based to create our documentation and
 presentation.
 
 
