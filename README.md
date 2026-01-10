@@ -1,6 +1,6 @@
 # Project Setup Guide (Pip & Venv)
 
-This guide explains how to set up your environment using Python's native `venv` module and `pip`.
+This guide explains how to set up your environment using Python's native `venv` module and `pip`. We have a python version 3.13, please make sure you have the same version.
 
 ---
 
